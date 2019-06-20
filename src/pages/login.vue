@@ -59,7 +59,7 @@ export default {
       video: "",
       videoCanPlay: false,
       ruleForm: {
-        username: "ganghang@ganghang.com",
+        username: "ganghang@ganghang.com1",
         password: "647da1351"
       },
       rules: {
