@@ -59,8 +59,8 @@ export default {
       video: "",
       videoCanPlay: false,
       ruleForm: {
-        username: "",
-        password: ""
+        username: "ganghang@ganghang.com",
+        password: "647da1351"
       },
       rules: {
         username: [{ validator: validateUser, trigger: "blur" }],
